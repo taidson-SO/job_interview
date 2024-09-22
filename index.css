@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+body {
+	background-color: #222;
+	color: #ccc;
+	font-size: 16px;
+	text-align: center;
+}
+
+
+h1 {
+	background-color: #800;
+}
+
+
+input {
+	width: 200px;
+	height: 32px;
+	margin: 10px;
+}
+
+button {
+	font-size: 1.2em;
+	border: 2px solid #ccc;
+	border-radius: 20px;
+}
+
+div {
+	width: 50vw;
+	height: max-content;
+	margin: 0 auto;
+}
+
+h2 {
+	margin: 0 auto;
+	text-align: center;
+}
+
